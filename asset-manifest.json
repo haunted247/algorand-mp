@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/algorand-mp/static/css/main.518ce94c.chunk.css",
+    "main.js": "/algorand-mp/static/js/main.c9b99cbe.chunk.js",
+    "main.js.map": "/algorand-mp/static/js/main.c9b99cbe.chunk.js.map",
+    "runtime-main.js": "/algorand-mp/static/js/runtime-main.25ecf2cb.js",
+    "runtime-main.js.map": "/algorand-mp/static/js/runtime-main.25ecf2cb.js.map",
+    "static/css/2.c756c69a.chunk.css": "/algorand-mp/static/css/2.c756c69a.chunk.css",
+    "static/js/2.7b3a0ab9.chunk.js": "/algorand-mp/static/js/2.7b3a0ab9.chunk.js",
+    "static/js/2.7b3a0ab9.chunk.js.map": "/algorand-mp/static/js/2.7b3a0ab9.chunk.js.map",
+    "static/js/3.ddb288af.chunk.js": "/algorand-mp/static/js/3.ddb288af.chunk.js",
+    "static/js/3.ddb288af.chunk.js.map": "/algorand-mp/static/js/3.ddb288af.chunk.js.map",
+    "index.html": "/algorand-mp/index.html",
+    "static/css/2.c756c69a.chunk.css.map": "/algorand-mp/static/css/2.c756c69a.chunk.css.map",
+    "static/css/main.518ce94c.chunk.css.map": "/algorand-mp/static/css/main.518ce94c.chunk.css.map",
+    "static/js/2.7b3a0ab9.chunk.js.LICENSE.txt": "/algorand-mp/static/js/2.7b3a0ab9.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/algorand-mp/static/media/bootstrap-icons.dea24bf5.woff2",
+    "static/media/sandwich.2d312449.jpg": "/algorand-mp/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25ecf2cb.js",
+    "static/css/2.c756c69a.chunk.css",
+    "static/js/2.7b3a0ab9.chunk.js",
+    "static/css/main.518ce94c.chunk.css",
+    "static/js/main.c9b99cbe.chunk.js"
+  ]
+}
